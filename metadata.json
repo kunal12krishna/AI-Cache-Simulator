@@ -1,0 +1,5 @@
+{
+  "description": "An AI-powered Cache Memory Simulator that models how CPU cache works and provides real-time anomaly detection for memory access patterns.",
+  "requestFramePermissions": [],
+  "name": "AI Cache Simulator"
+}
